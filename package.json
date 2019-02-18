@@ -21,8 +21,8 @@
     "should": "^7.1.0"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "passport-oauth": "^1.0.0",
-    "request": "^2.61.0",
     "xtend": "^4.0.0"
   }
 }
